@@ -1,0 +1,3 @@
+Using JDK 7: MYTEST: hello.Quote@3a3c7b60
+
+Using JDK 8: hello.Quote@3a3c7b60
